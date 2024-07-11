@@ -17,10 +17,6 @@ import CarruselBiblioteca from './components/Biblioteca/CarruselBiblioteca';
 
 
 function App() {
- 
-  
-
-  
 
   return (
     <BrowserRouter>
